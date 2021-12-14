@@ -1,0 +1,61 @@
+{
+  "login": {
+    "access": "Acesso",
+    "password": "Senha",
+    "title": "Acessar sistema",
+    "noAccount": "Ainda não tem conta ?",
+    "singup": "Cadastra-se",
+    "remember": "Memorizar acesso",
+    "lostPassword": "Perdeu a senha ?",
+    "textA": "Fabrica de cerveja!",
+    "textB": "MyTapp.",
+    "buttonLogin": "Entrar"
+  },
+  "singup": {
+    "name": "Nome",
+    "email": "E-mail",
+    "password": "Senha",
+    "agree": "Li e estou de acordo com os ",
+    "termsService": "Termos de serviço",
+    "prepositionAnd": "e",
+    "PrivacyPolicy": "Política de privacidade",
+    "title": "Criar uma conta é rápido e simples ! ",
+    "haveAccount": "Já tem uma conta ?",
+    "login": "acesse aqui",
+    "textA": "Fabrica de cerveja!",
+    "textB": "MyTapp.",
+    "buttonSignup": "Criar"
+  },
+  "resetPassword": {
+    "email": "E-mail",
+    "textA": "Redefinição de senha.",
+    "textB": "Digite seu email abaixo. Enviaremos por e-mail um link pra você criar facilmente uma nova senha.",
+    "textC": "Fabrica de cerveja!",
+    "textD": "MyTapp.",
+    "buttonResetPassword": "Recuperar senha",
+    "login": "Login",
+    "signup": "Cadastra-se"
+  },
+  "newPassword": {
+    "password": "Senha",
+    "textA": "Nova senha.",
+    "textB": "Digite sua nova senha de accesso",
+    "textC": "Fabrica de cerveja!",
+    "textD": "MyTapp.",
+    "buttonResetPassword": "Salvar senha",
+    "login": "Login",
+    "signup": "Cadastra-se"
+  },
+  "PageNotFound": {
+    "title": "Eskiel",
+    "textA": "Página não encontrada",
+    "textB": "Não foi possível encontrar a página que você está procurando.",
+    "buttonHome": "Ir para home"
+  },
+  "welcome": {
+    "title": "Eskiel",
+    "textA": "Página não encontrada",
+    "textB": "Não foi possível encontrar a página que você está procurando.",
+    "signup": "Criar conta"
+  }
+}
